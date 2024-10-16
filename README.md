@@ -1,3 +1,3 @@
 # finance
-A clone of Finance SaaS Platform by Code With Antonio
+chainFunds - a Finance Platform
 # chainFunds
