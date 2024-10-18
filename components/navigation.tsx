@@ -3,9 +3,9 @@
 import { useState } from "react";
 import { useMedia } from "react-use";
 import { usePathname, useRouter } from "next/navigation";
+import NavButton from "./nav-button";
 
 import { Button } from "./ui/button";
-import { NavButton } from "./nav-button";
 import { Sheet, SheetContent, SheetTrigger } from "./ui/sheet";
 import { Menu } from "lucide-react";
 
